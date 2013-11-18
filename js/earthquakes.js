@@ -99,7 +99,6 @@ function registerInfoWindow(map, marker, infoWindow) {
     	}
     	gov.usgs.iw = infoWindow;
         infoWindow.open(map, marker);
-
     });                
 } //registerInfoWindow()
 
